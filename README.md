@@ -14,3 +14,4 @@ En este taller treballarem en el seguent:
 >>>>>>> nova_branca
 
 Repositori remots
+Github i colaboracio
