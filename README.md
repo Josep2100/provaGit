@@ -6,4 +6,4 @@ En este taller treballarem en el seguent:
 
 - Instalacio i configuracio de git 
 - Repositorio local
-  
+- Branques, fusions
